@@ -12,7 +12,7 @@ if(sourcenya !==''){
 							autostart: true,
 							hlshtml: true,
 							width: "100%",
-							height: '100%',
+							aspectratio: '16:9',
 
 							stretching: "exactfit",
 							primary: "html5",
