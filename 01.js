@@ -6,7 +6,7 @@ if(sourcenya !==''){
 							sources: [{ 
 							file: sourcenya
 							},{
-							//file: ""
+							file: "https://edge.nim.mivo.tv/video/assets/oops.m3u8"
 							}]
 							}],
 							autostart: true,
