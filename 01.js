@@ -4,7 +4,7 @@ if(sourcenya !==''){
 							playerInstance.setup({
 							playlist: [{
 							sources: [{ 
-							file: sourcenya
+							file: "https://cors-anywhere.herokuapp.com/https://live-vidiostream.akamaized.net/live/smil:indosiar.smil/playlist.m3u8"
 							},{
 							file: "https://edge.nim.mivo.tv/video/assets/oops.m3u8"
 							}]
