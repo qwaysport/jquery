@@ -4,7 +4,7 @@ if(sourcenya !==''){
 							playerInstance.setup({
 							playlist: [{
 							sources: [{ 
-							file: sourcenya
+							file: cling
 							},{
 							file: "https://edge.nim.mivo.tv/video/assets/oops.m3u8"
 							}]
