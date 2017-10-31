@@ -1,4 +1,4 @@
-if(sourcenya !==''){
+if(cling !==''){
 							/*window.dataLayer = window.dataLayer || [];*/
 							var playerInstance = jwplayer("algiTV");
 							playerInstance.setup({
